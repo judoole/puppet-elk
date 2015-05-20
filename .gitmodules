@@ -1,3 +1,6 @@
 [submodule "modules/kibana"]
 	path = modules/kibana
 	url = git@github.com:evenup/evenup-kibana.git
+[submodule "modules/logstash"]
+	path = modules/logstash
+	url = git@github.com:elastic/puppet-logstash.git
