@@ -1,0 +1,3 @@
+[submodule "modules/kibana"]
+	path = modules/kibana
+	url = git@github.com:evenup/evenup-kibana.git
